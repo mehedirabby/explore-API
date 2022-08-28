@@ -30,3 +30,5 @@ function displayPosts(posts){
 
 
 loadPosts();
+
+
